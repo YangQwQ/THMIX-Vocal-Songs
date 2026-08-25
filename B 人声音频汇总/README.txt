@@ -23,6 +23,7 @@ de75ec5883932f64de2f6e5a8c3cbd58		【Kotoha】泥中に咲く
 6403f17bdb4fbb680aa9bbb42a42764e		【鹿乃】クライヤ-Crier
 ddddfd1e88bf264f9f8b738b79fcb24b		【鹿乃】メリーメリー-Merry Merry
 6c019cdc659d515e39f53bd245543b49		【MIMI】あわく心模様 - 泡沫之心
+aa85f2a7edd016ca94515a04e6c87e75		【初音ミク】帝国少女
 
 Made by nana-fu:
 dc0543a2745df0347b86ce621d6543aa		【歌唱祖国】
@@ -48,7 +49,23 @@ c4f0b3592ebebf3fdfdc93fbb0b012e6		【Precure｜光之美少女】Precure 5, Full
 282592aaafaf3c051969dc759d7a2b73		【Precure｜光之美少女】Yay! Yay! Yay!
 392d79dc61b3221c665986c54dfbdbc0		【Precure｜光之美少女】Love Link
 77a948197d59f011f0c84596e9cda668		【Precure｜光之美少女】Dokkin◇魔法つかいプリキュア
+b9aa9bff885777d4364f50880fa76fc5		【Precure｜光之美少女】夢は未来への道
+355a06c6f2c0a95197b351875c678a47		【Precure｜光之美少女】SHINE!! KIRAKIRA☆Precure A LA MODE
+9ddce38615c888a654f178b28eede4a5		【Precure｜光之美少女】Viva! Spark! Tropical-Rouge! Precure
+71d770ac94f768b2acef06906c4d93e8		【Precure｜光之美少女】あこがれ Go My Way!!
+6721b9f106488407cbd23e046a1a5d24		【Precure｜光之美少女】ひろがるスカイ！プリキュア ～Hero Girls～
+3796378c14e908782bb8182e635eb17a		【Precure｜光之美少女】ヒロガリズム
+8499ba7ae70d3b565b43cc2ee2d3522d		【Precure｜光之美少女】わんだふるぷりきゅあ！evolution!!
+c6cf0a2c39e385f388137563b4eb006e		【Precure｜光之美少女】しあわせえぼりゅ～しょん♡
+dbbf5d9b39eedd4be126a1b47de1f97e		【Precure｜光之美少女】Precure5, Smile GOGO!
+0388162b286ded0c5bea7603ef09c85e		【Precure｜光之美少女】You and Idol Precure♪ Light Up!
+65e4af643678177ac2943d881c70c0c7		【Precure｜光之美少女】Kirari☆彡Star☆Twinkle Precure
+b7980ae316f6cb693c1118ad7063037e		【Precure｜光之美少女】教えて...! Twinkle☆
+1347e2946121fb36f9de61aa18d06f26		【Precure｜光之美少女】ハートにヒント！名探偵プリキュア！
+5e2e66ce543649c3658df3c1d902adab		【Precure｜光之美少女】なぜ？謎？！ANSWER
+83dcee3f31344980424c46fd059a7846		【天降之物】Ring My Bell
+704ae375c62a214b304729d55c2444c0		【天降之物】ハートの確率
+413414164ab45d72c0d44a6538425e7b		【No Game No Life｜游戏人生】This Game
+9152373648cff6b7bab2d14c8e019133		【No Game No Life｜游戏人生】THERE IS A REASON
 
 --------------------------------------------------------------------------------------------------------
-
-
